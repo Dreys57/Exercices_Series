@@ -1,0 +1,5 @@
+﻿  Exercice_1.4-1.5.cpp
+C:\Users\Vincent\Desktop\SAE\SAE_Travaux_ecole\Exercice_1.4-1.5\Exercice_1.4-1.5\Exercice_1.4-1.5.cpp(50,21): warning C4244:  'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Vincent\Desktop\SAE\SAE_Travaux_ecole\Exercice_1.4-1.5\Exercice_1.4-1.5\Exercice_1.4-1.5.cpp(52,18): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Vincent\Desktop\SAE\SAE_Travaux_ecole\Exercice_1.4-1.5\Exercice_1.4-1.5\Exercice_1.4-1.5.cpp(61,23): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+  Exercice_1.4-1.5.vcxproj -> C:\Users\Vincent\Desktop\SAE\SAE_Travaux_ecole\Exercice_1.4-1.5\Debug\Exercice_1.4-1.5.exe
